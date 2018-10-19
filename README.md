@@ -28,12 +28,12 @@ Usage
 -------
 
 ```
-> ./rent_conversion.py 1300 pcm
+> ./rent_price_coverter.py 1300 pcm
 300 pw
 ```
 
 ```
-> ./rent_conversion.py 150 pw
+> ./rent_price_coverter.py 150 pw
 650 pcm
 ```
 
