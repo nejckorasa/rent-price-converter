@@ -4,7 +4,7 @@ import argparse
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(
-        description='Simple Script to convert between PW (per week) to PCM (per calendar month) rent prices. And the other way around'
+        description='Simple Script to convert between PW (per week) to PCM (per calendar month) rent prices'
     )
 
     parser.add_argument('rent', type=int, help='rent value')
